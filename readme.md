@@ -56,13 +56,13 @@ Video tutorials will be added here.
 
 Versions: 5 | Files: 10 | Total size: 1.4 MB
 
-| Version | Files | Size |
-|---|---|---|
-| [3.10.2](SEB_downloads/3.10.2/) | 2 | 283.2 KB |
-| [3.10.1](SEB_downloads/3.10.1/) | 2 | 283.8 KB |
-| [3.10.0](SEB_downloads/3.10.0/) | 2 | 284.6 KB |
-| [3.9.0](SEB_downloads/3.9.0/) | 2 | 283.8 KB |
-| [3.8.0](SEB_downloads/3.8.0/) | 2 | 283.3 KB |
+| Version / guide | Download patches | Files | Size |
+|---|---|---|---|
+| [3.10.2](SEB_downloads/3.10.2/) | [64-bit (x64)](SEB_downloads/3.10.2/SEB_3.10.2.920_x64_Setup.msi?raw=true) / [32-bit (x86)](SEB_downloads/3.10.2/SEB_3.10.2.920_x86_Setup.msi?raw=true) | 2 | 283.2 KB |
+| [3.10.1](SEB_downloads/3.10.1/) | [64-bit (x64)](SEB_downloads/3.10.1/SEB_3.10.1.864_x64_Setup.msi?raw=true) / [32-bit (x86)](SEB_downloads/3.10.1/SEB_3.10.1.864_x86_Setup.msi?raw=true) | 2 | 283.8 KB |
+| [3.10.0](SEB_downloads/3.10.0/) | [64-bit (x64)](SEB_downloads/3.10.0/SEB_3.10.0.826_x64_Setup.msi?raw=true) / [32-bit (x86)](SEB_downloads/3.10.0/SEB_3.10.0.826_x86_Setup.msi?raw=true) | 2 | 284.6 KB |
+| [3.9.0](SEB_downloads/3.9.0/) | [64-bit (x64)](SEB_downloads/3.9.0/SEB_3.9.0.787_x64_Setup.msi?raw=true) / [32-bit (x86)](SEB_downloads/3.9.0/SEB_3.9.0.787_x86_Setup.msi?raw=true) | 2 | 283.8 KB |
+| [3.8.0](SEB_downloads/3.8.0/) | [64-bit (x64)](SEB_downloads/3.8.0/SEB_3.8.0.742_x64_Setup.msi?raw=true) / [32-bit (x86)](SEB_downloads/3.8.0/SEB_3.8.0.742_x86_Setup.msi?raw=true) | 2 | 283.3 KB |
 
 ## Troubleshooting
 

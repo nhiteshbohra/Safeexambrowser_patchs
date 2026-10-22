@@ -20,8 +20,8 @@ Come back to this GitHub page and download the patch that matches your system ar
 
 | Your system | Patch file | Size | SHA-256 |
 |---|---|---|---|
-| 64-bit (x64) | [SEB_3.10.2.920_x64_Setup.msi](SEB_3.10.2.920_x64_Setup.msi) | 141.9 KB | `966c974173c238ec7715fd774276d9dba8c19de43e28da8ceed162c9550723e6` |
-| 32-bit (x86) | [SEB_3.10.2.920_x86_Setup.msi](SEB_3.10.2.920_x86_Setup.msi) | 141.3 KB | `9b42e63efb25e240b210a1158ef23c26e3cd6c6f4e067a105a6e3b822e04effe` |
+| 64-bit (x64) | [SEB_3.10.2.920_x64_Setup.msi](SEB_3.10.2.920_x64_Setup.msi?raw=true) | 141.9 KB | `966c974173c238ec7715fd774276d9dba8c19de43e28da8ceed162c9550723e6` |
+| 32-bit (x86) | [SEB_3.10.2.920_x86_Setup.msi](SEB_3.10.2.920_x86_Setup.msi?raw=true) | 141.3 KB | `9b42e63efb25e240b210a1158ef23c26e3cd6c6f4e067a105a6e3b822e04effe` |
 
 Not sure which one you need? Open **Settings > System > About** and look at **System type**.
 
