@@ -64,3 +64,15 @@ Versions: 5 | Files: 10 | Total size: 1.4 MB
 | [3.9.0](SEB_downloads/3.9.0/) | 2 | 283.8 KB |
 | [3.8.0](SEB_downloads/3.8.0/) | 2 | 283.3 KB |
 
+## Troubleshooting
+
+- **Not sure which patch to pick:** check **System type** in Settings (see above). If one patch does not install, you picked the wrong architecture, so try the other one.
+- **The installer asks for permission or fails to start:** run it as administrator.
+- **Your exam provider requires a specific version:** install exactly that version, because exam systems can check the SEB version.
+
+## Notes
+
+- The files here come from the official Safe Exam Browser releases and are not modified. Each version folder lists the SHA-256 checksum of its files so you can verify them.
+- What Safe Exam Browser blocks or allows during an exam is set in the exam's configuration by your school or exam provider. Please follow their rules.
+
+Last updated: 2026-10-22

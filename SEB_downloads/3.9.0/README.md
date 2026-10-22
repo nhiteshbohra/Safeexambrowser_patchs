@@ -29,4 +29,4 @@ Not sure which one you need? Open **Settings > System > About** and look at **Sy
 
 Run the patch you downloaded and follow the prompts. When it finishes, Safe Exam Browser 3.9.0 is fully patched.
 
-[Back to all versions](../../README.md)
+[Back to all versions](../../readme.md)
