@@ -1,7 +1,13 @@
 # Safe Exam Browser 3.10.2
 
-Intended patch behavior: enable **Alt+Tab** to switch between open windows while SEB is running. This has not been verified for these files.
+## Features it enables
 
+Depending on the patch version and settings, it can:
+
+- Let you leave kiosk mode and switch to other apps and windows.
+- Allow copying and pasting.
+- Bypass virtual machine and remote session checks so SEB can run in those environments.
+- Add settings for VMware overlays and remote connections.
 ## How to install this version
 
 ### Step 1: Download the setup bundle

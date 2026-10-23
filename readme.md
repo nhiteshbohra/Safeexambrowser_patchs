@@ -6,7 +6,7 @@ Download Safe Exam Browser (SEB) for Windows by version. Every version has its o
 
 Depending on the patch version and settings, it can:
 
-- Leave kiosk mode and switch to other apps and windows, including using Alt+Tab to change between screens.
+- Let you leave kiosk mode and switch to other apps and windows.
 - Allow copying and pasting.
 - Bypass virtual machine and remote session checks so SEB can run in those environments.
 - Add settings for VMware overlays and remote connections.
