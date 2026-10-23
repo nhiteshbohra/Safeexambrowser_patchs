@@ -40,6 +40,6 @@ Run the patch you downloaded and follow the prompts. When it finishes, Safe Exam
 
 ## Video tutorial
 
-[Watch the SEB patch installation video](../../export-1792756171041.mp4)
+https://github.com/user-attachments/assets/8a1be332-308b-4185-b583-e8b4083f6d1e
 
 [Back to all versions](../../readme.md)
