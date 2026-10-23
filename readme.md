@@ -1,46 +1,35 @@
 # Safe Exam Browser Patch Downloads
 
-Download Safe Exam Browser (SEB) for Windows by version. Every version has its own folder with the patch files for 64-bit (x64) and 32-bit (x86) systems, plus a link to that version's official setup bundle on GitHub. Follow the guide below to install any version.
+Download Safe Exam Browser (SEB) for Windows by version. Every version has its own folder with the newest patch EXE, plus a link to that version's setup bundle. Follow the guide below to install any version.
 
-## What you get
+## Features it enables
 
-- Every version in its own folder, with a step-by-step guide inside.
-- Patch files for both 64-bit (x64) and 32-bit (x86) Windows.
-- The link to the official setup bundle of each version.
-- New versions add bug fixes, browser engine updates and new features. Optional features (for example screen proctoring or SEB Server support) are switched off by default and are turned on through the exam configuration, so a feature only works when your exam setup enables it.
+Depending on the patch version and settings, it can:
 
-## Before you start
-
-- You need Windows 10 version 1803 or newer.
-- You may need administrator rights to install software.
-- Use the version your school or exam provider asks for.
-- Not sure if your Windows is 64-bit or 32-bit? Open **Settings > System > About** and look at **System type**.
+- Leave kiosk mode and switch to other apps and windows, including using Alt+Tab to change between screens.
+- Allow copying and pasting.
+- Bypass virtual machine and remote session checks so SEB can run in those environments.
+- Add settings for VMware overlays and remote connections.
 
 ## Installation guide (works for any version)
 
-### Step 1: Choose your version
+Replace **<version>** below with the version you are downloading (for example, **3.10.0**). Open its guide in the [list of versions](#available-versions) for the matching download links.
 
-Pick a version from the [list of versions](#available-versions) below and open its folder.
+### Step 1: Download the setup bundle
 
-### Step 2: Download the setup bundle from GitHub
+Download the setup bundle of version **<version>** using the link in that version's README.
 
-Inside the version folder, the README has the link to that version's setup bundle on GitHub. Download it.
+### Step 2: Install the setup bundle
 
-### Step 3: Install the setup bundle
+Run the downloaded setup bundle on your computer and finish the installation.
 
-Run the setup bundle you downloaded and finish the installation. It also installs the components SEB needs (such as .NET Framework and the Visual C++ Redistributable).
+### Step 3: Download the patch for your system
 
-### Step 4: Download the patch for your system
+Come back to the version **<version>** version page and download the newest patch EXE for that SEB version. Use the links in its README table; filenames in GitHub's folder listing open a preview.
 
-Go back to the version folder in this GitHub repository and download the patch file that matches your system: the **x64** file for 64-bit Windows or the **x86** file for 32-bit Windows.
+### Step 4: Run the patch
 
-### Step 5: Run the patch
-
-Run the patch file and follow the prompts. When it finishes, that version of Safe Exam Browser is fully patched and ready to use.
-
-### Step 6: Open Safe Exam Browser
-
-Start Safe Exam Browser. If it opens normally, the installation is complete.
+Run the patch you downloaded and follow the prompts. When it finishes, Safe Exam Browser **<version>** is fully patched.
 
 ## Video tutorials
 
@@ -54,25 +43,18 @@ Video tutorials will be added here.
 
 ## Available versions
 
-Versions: 5 | Files: 10 | Total size: 1.4 MB
+Versions: 5 | Files: 5 | Total size: 34.2 MB
 
 | Version / guide | Download patches | Files | Size |
 |---|---|---|---|
-| [3.10.2](SEB_downloads/3.10.2/) | [64-bit (x64)](SEB_downloads/3.10.2/SEB_3.10.2.920_x64_Setup.msi?raw=true) / [32-bit (x86)](SEB_downloads/3.10.2/SEB_3.10.2.920_x86_Setup.msi?raw=true) | 2 | 283.2 KB |
-| [3.10.1](SEB_downloads/3.10.1/) | [64-bit (x64)](SEB_downloads/3.10.1/SEB_3.10.1.864_x64_Setup.msi?raw=true) / [32-bit (x86)](SEB_downloads/3.10.1/SEB_3.10.1.864_x86_Setup.msi?raw=true) | 2 | 283.8 KB |
-| [3.10.0](SEB_downloads/3.10.0/) | [64-bit (x64)](SEB_downloads/3.10.0/SEB_3.10.0.826_x64_Setup.msi?raw=true) / [32-bit (x86)](SEB_downloads/3.10.0/SEB_3.10.0.826_x86_Setup.msi?raw=true) | 2 | 284.6 KB |
-| [3.9.0](SEB_downloads/3.9.0/) | [64-bit (x64)](SEB_downloads/3.9.0/SEB_3.9.0.787_x64_Setup.msi?raw=true) / [32-bit (x86)](SEB_downloads/3.9.0/SEB_3.9.0.787_x86_Setup.msi?raw=true) | 2 | 283.8 KB |
-| [3.8.0](SEB_downloads/3.8.0/) | [64-bit (x64)](SEB_downloads/3.8.0/SEB_3.8.0.742_x64_Setup.msi?raw=true) / [32-bit (x86)](SEB_downloads/3.8.0/SEB_3.8.0.742_x86_Setup.msi?raw=true) | 2 | 283.3 KB |
-
-## Troubleshooting
-
-- **Not sure which patch to pick:** check **System type** in Settings (see above). If one patch does not install, you picked the wrong architecture, so try the other one.
-- **The installer asks for permission or fails to start:** run it as administrator.
-- **Your exam provider requires a specific version:** install exactly that version, because exam systems can check the SEB version.
+| [3.10.2](SEB_downloads/3.10.2/) | [SEB_3.10.2.920_patch_v1.10.exe](SEB_downloads/3.10.2/SEB_3.10.2.920_patch_v1.10.exe?raw=true) | 1 | 4.9 MB |
+| [3.10.1](SEB_downloads/3.10.1/) | [SEB_3.10.1.864_patch_v1.9.exe](SEB_downloads/3.10.1/SEB_3.10.1.864_patch_v1.9.exe?raw=true) | 1 | 7.8 MB |
+| [3.10.0](SEB_downloads/3.10.0/) | [SEB_3.10.0.826_patch_v1.8.exe](SEB_downloads/3.10.0/SEB_3.10.0.826_patch_v1.8.exe?raw=true) | 1 | 7.8 MB |
+| [3.9.0](SEB_downloads/3.9.0/) | [SEB_3.9.0.787_patch_v1.6.0.1.exe](SEB_downloads/3.9.0/SEB_3.9.0.787_patch_v1.6.0.1.exe?raw=true) | 1 | 7.8 MB |
+| [3.8.0](SEB_downloads/3.8.0/) | [SEB_3.8.0.742_patch_v1.4.1.exe](SEB_downloads/3.8.0/SEB_3.8.0.742_patch_v1.4.1.exe?raw=true) | 1 | 5.9 MB |
 
 ## Notes
 
-- The files here come from the official Safe Exam Browser releases and are not modified. Each version folder lists the SHA-256 checksum of its files so you can verify them.
-- What Safe Exam Browser blocks or allows during an exam is set in the exam's configuration by your school or exam provider. Please follow their rules.
+This repository is for educational purposes only. The repository owner does not promote harmful or illegal activities and disclaims responsibility for misuse. Users are responsible for their own actions and for following applicable laws and exam rules.
 
-Last updated: 2026-10-22
+Last updated: 2026-10-23

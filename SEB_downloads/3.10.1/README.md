@@ -1,14 +1,16 @@
 # Safe Exam Browser 3.10.1
 
+Intended patch behavior: enable **Alt+Tab** to switch between open windows while SEB is running. This has not been verified for these files.
+
 ## How to install this version
 
-### Step 1: Download the setup bundle from GitHub
+### Step 1: Download the setup bundle
 
-Download the setup bundle of version 3.10.1 from GitHub:
+Download the setup bundle of version 3.10.1 using the link below:
 
 [SEB_3.10.1.864_SetupBundle.exe](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.10.1/SEB_3.10.1.864_SetupBundle.exe) (334.7 MB)
 
-[GitHub release page for 3.10.1](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/tag/v3.10.1)
+[release page for 3.10.1](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/tag/v3.10.1)
 
 ### Step 2: Install the setup bundle
 
@@ -16,14 +18,12 @@ Run the downloaded setup bundle on your computer and finish the installation.
 
 ### Step 3: Download the patch for your system
 
-Come back to this GitHub page and download the patch that matches your system architecture, 64-bit (x64) or 32-bit (x86):
+Download the newest patch EXE for this SEB version:
+Use the links below; filenames in GitHub's folder listing open a preview.
 
-| Your system | Patch file | Size | SHA-256 |
+| Patch release | Patch file | Size | SHA-256 |
 |---|---|---|---|
-| 64-bit (x64) | [SEB_3.10.1.864_x64_Setup.msi](SEB_3.10.1.864_x64_Setup.msi?raw=true) | 142.3 KB | `bd4089eaabc3bbfa5f11541aec083be7fd16cd009f77ba0cc5bf4a62733da2ba` |
-| 32-bit (x86) | [SEB_3.10.1.864_x86_Setup.msi](SEB_3.10.1.864_x86_Setup.msi?raw=true) | 141.5 KB | `d4aa6b04326f6c623b25c617e882a6c80d8194d49e3242dd9eac4973eaab1909` |
-
-Not sure which one you need? Open **Settings > System > About** and look at **System type**.
+| v1.9 | [SEB_3.10.1.864_patch_v1.9.exe](SEB_3.10.1.864_patch_v1.9.exe?raw=true) | 7.8 MB | `89f80cd5bd68618b7ee2b971afd40762dad7819b6d4fdc8007d69d19c84841c2` |
 
 ### Step 4: Run the patch
 
