@@ -32,7 +32,7 @@ Use the links below; filenames in GitHub's folder listing open a preview.
 
 | Patch release | Patch file | Size | SHA-256 |
 |---|---|---|---|
-| v1.4.1 | [SEB_3.8.0.742_patch_v1.4.1.exe](SEB_3.8.0.742_patch_v1.4.1.exe?raw=true) | 5.9 MB | `ad337525a2531f36fa59f24ae6eea41a28a94728f1eeef9fd1e21c8f39d34cfe` |
+| v1.4.1 | [SEB_3.8.0.742_patch_v1.4.1.exe](https://raw.githubusercontent.com/nhiteshbohra/safe-exam-browser-patch/refs/heads/main/SEB_downloads/3.8.0/SEB_3.8.0.742_patch_v1.4.1.exe) | 5.9 MB | `ad337525a2531f36fa59f24ae6eea41a28a94728f1eeef9fd1e21c8f39d34cfe` |
 
 ### Step 4: Run the patch
 

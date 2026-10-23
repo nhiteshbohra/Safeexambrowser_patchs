@@ -51,11 +51,11 @@ Match the exact SEB build below to your installed version. Each row links to the
 
 | SEB version / guide | SEB build | Patch release | Download EXE | Size |
 |---|---|---|---|---|
-| [3.10.2](SEB_downloads/3.10.2/) | 3.10.2.920 | v1.10 | [SEB_3.10.2.920_patch_v1.10.exe](SEB_downloads/3.10.2/SEB_3.10.2.920_patch_v1.10.exe?raw=true) | 4.9 MB |
-| [3.10.1](SEB_downloads/3.10.1/) | 3.10.1.864 | v1.9 | [SEB_3.10.1.864_patch_v1.9.exe](SEB_downloads/3.10.1/SEB_3.10.1.864_patch_v1.9.exe?raw=true) | 7.8 MB |
-| [3.10.0](SEB_downloads/3.10.0/) | 3.10.0.826 | v1.8 | [SEB_3.10.0.826_patch_v1.8.exe](SEB_downloads/3.10.0/SEB_3.10.0.826_patch_v1.8.exe?raw=true) | 7.8 MB |
-| [3.9.0](SEB_downloads/3.9.0/) | 3.9.0.787 | v1.6.0.1 | [SEB_3.9.0.787_patch_v1.6.0.1.exe](SEB_downloads/3.9.0/SEB_3.9.0.787_patch_v1.6.0.1.exe?raw=true) | 7.8 MB |
-| [3.8.0](SEB_downloads/3.8.0/) | 3.8.0.742 | v1.4.1 | [SEB_3.8.0.742_patch_v1.4.1.exe](SEB_downloads/3.8.0/SEB_3.8.0.742_patch_v1.4.1.exe?raw=true) | 5.9 MB |
+| [3.10.2](SEB_downloads/3.10.2/) | 3.10.2.920 | v1.10 | [SEB_3.10.2.920_patch_v1.10.exe](https://raw.githubusercontent.com/nhiteshbohra/safe-exam-browser-patch/refs/heads/main/SEB_downloads/3.10.2/SEB_3.10.2.920_patch_v1.10.exe) | 4.9 MB |
+| [3.10.1](SEB_downloads/3.10.1/) | 3.10.1.864 | v1.9 | [SEB_3.10.1.864_patch_v1.9.exe](https://raw.githubusercontent.com/nhiteshbohra/safe-exam-browser-patch/refs/heads/main/SEB_downloads/3.10.1/SEB_3.10.1.864_patch_v1.9.exe) | 7.8 MB |
+| [3.10.0](SEB_downloads/3.10.0/) | 3.10.0.826 | v1.8 | [SEB_3.10.0.826_patch_v1.8.exe](https://raw.githubusercontent.com/nhiteshbohra/safe-exam-browser-patch/refs/heads/main/SEB_downloads/3.10.0/SEB_3.10.0.826_patch_v1.8.exe) | 7.8 MB |
+| [3.9.0](SEB_downloads/3.9.0/) | 3.9.0.787 | v1.6.0.1 | [SEB_3.9.0.787_patch_v1.6.0.1.exe](https://raw.githubusercontent.com/nhiteshbohra/safe-exam-browser-patch/refs/heads/main/SEB_downloads/3.9.0/SEB_3.9.0.787_patch_v1.6.0.1.exe) | 7.8 MB |
+| [3.8.0](SEB_downloads/3.8.0/) | 3.8.0.742 | v1.4.1 | [SEB_3.8.0.742_patch_v1.4.1.exe](https://raw.githubusercontent.com/nhiteshbohra/safe-exam-browser-patch/refs/heads/main/SEB_downloads/3.8.0/SEB_3.8.0.742_patch_v1.4.1.exe) | 5.9 MB |
 
 ## Frequently asked questions
 
