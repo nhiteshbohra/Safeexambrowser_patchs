@@ -1,6 +1,8 @@
-# Safe Exam Browser Patch Downloads
+# Safe Exam Browser Patch — SEB Patch EXE for Windows
 
 Download Safe Exam Browser (SEB) for Windows by version. Every version has its own folder with the newest patch EXE, plus a link to that version's setup bundle. Follow the guide below to install any version.
+
+[Download a patch](#available-versions) · [Installation guide](#installation-guide-works-for-any-version) · [Frequently asked questions](#frequently-asked-questions)
 
 ## Features it enables
 
@@ -25,7 +27,7 @@ Run the downloaded setup bundle on your computer and finish the installation.
 
 ### Step 3: Download the patch for your system
 
-Come back to the version **<version>** version page and download the newest patch EXE for that SEB version. Use the links in its README table; filenames in GitHub's folder listing open a preview.
+Open the guide for **<version>** and download the newest patch EXE for that SEB version. Use the links in its README table; filenames in GitHub's folder listing open a preview.
 
 ### Step 4: Run the patch
 
@@ -45,13 +47,33 @@ Video tutorials will be added here.
 
 Versions: 5 | Files: 5 | Total size: 34.2 MB
 
-| Version / guide | Download patches | Files | Size |
-|---|---|---|---|
-| [3.10.2](SEB_downloads/3.10.2/) | [SEB_3.10.2.920_patch_v1.10.exe](SEB_downloads/3.10.2/SEB_3.10.2.920_patch_v1.10.exe?raw=true) | 1 | 4.9 MB |
-| [3.10.1](SEB_downloads/3.10.1/) | [SEB_3.10.1.864_patch_v1.9.exe](SEB_downloads/3.10.1/SEB_3.10.1.864_patch_v1.9.exe?raw=true) | 1 | 7.8 MB |
-| [3.10.0](SEB_downloads/3.10.0/) | [SEB_3.10.0.826_patch_v1.8.exe](SEB_downloads/3.10.0/SEB_3.10.0.826_patch_v1.8.exe?raw=true) | 1 | 7.8 MB |
-| [3.9.0](SEB_downloads/3.9.0/) | [SEB_3.9.0.787_patch_v1.6.0.1.exe](SEB_downloads/3.9.0/SEB_3.9.0.787_patch_v1.6.0.1.exe?raw=true) | 1 | 7.8 MB |
-| [3.8.0](SEB_downloads/3.8.0/) | [SEB_3.8.0.742_patch_v1.4.1.exe](SEB_downloads/3.8.0/SEB_3.8.0.742_patch_v1.4.1.exe?raw=true) | 1 | 5.9 MB |
+Match the exact SEB build below to your installed version. Each row links to the newest available patch for that version.
+
+| SEB version / guide | SEB build | Patch release | Download EXE | Size |
+|---|---|---|---|---|
+| [3.10.2](SEB_downloads/3.10.2/) | 3.10.2.920 | v1.10 | [SEB_3.10.2.920_patch_v1.10.exe](SEB_downloads/3.10.2/SEB_3.10.2.920_patch_v1.10.exe?raw=true) | 4.9 MB |
+| [3.10.1](SEB_downloads/3.10.1/) | 3.10.1.864 | v1.9 | [SEB_3.10.1.864_patch_v1.9.exe](SEB_downloads/3.10.1/SEB_3.10.1.864_patch_v1.9.exe?raw=true) | 7.8 MB |
+| [3.10.0](SEB_downloads/3.10.0/) | 3.10.0.826 | v1.8 | [SEB_3.10.0.826_patch_v1.8.exe](SEB_downloads/3.10.0/SEB_3.10.0.826_patch_v1.8.exe?raw=true) | 7.8 MB |
+| [3.9.0](SEB_downloads/3.9.0/) | 3.9.0.787 | v1.6.0.1 | [SEB_3.9.0.787_patch_v1.6.0.1.exe](SEB_downloads/3.9.0/SEB_3.9.0.787_patch_v1.6.0.1.exe?raw=true) | 7.8 MB |
+| [3.8.0](SEB_downloads/3.8.0/) | 3.8.0.742 | v1.4.1 | [SEB_3.8.0.742_patch_v1.4.1.exe](SEB_downloads/3.8.0/SEB_3.8.0.742_patch_v1.4.1.exe?raw=true) | 5.9 MB |
+
+## Frequently asked questions
+
+### Which Safe Exam Browser patch EXE should I download?
+
+Match your installed SEB version and full build number to the table above. Open its version guide for the setup bundle, patch download, and SHA-256 checksum.
+
+### Can the SEB patch enable Alt+Tab, copy and paste, or virtual machine support?
+
+These are intended patch features. Availability depends on the patch version and settings; downloading an EXE does not confirm that every feature works in your environment.
+
+### Why does clicking a filename open a preview?
+
+Use the EXE download link in the README table. Clicking a file in the repository's folder listing opens its preview instead.
+
+### How can I check the downloaded file?
+
+Compare its SHA-256 hash with the value in the version guide. In PowerShell, run `Get-FileHash -Algorithm SHA256 .\your-patch-file.exe`, replacing the filename with your download. A matching hash confirms the same file contents; it does not prove safety or compatibility.
 
 ## Notes
 

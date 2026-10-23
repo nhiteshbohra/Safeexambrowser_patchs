@@ -1,4 +1,6 @@
-# Safe Exam Browser 3.10.1
+# Safe Exam Browser 3.10.1 Patch — SEB Patch EXE for Windows
+
+Download the newest available SEB patch EXE for Safe Exam Browser 3.10.1. Find the setup bundle, matching patch release, installation steps, and SHA-256 checksum below.
 
 ## Features it enables
 
@@ -8,6 +10,7 @@ Depending on the patch version and settings, it can:
 - Allow copying and pasting.
 - Bypass virtual machine and remote session checks so SEB can run in those environments.
 - Add settings for VMware overlays and remote connections.
+
 ## How to install this version
 
 ### Step 1: Download the setup bundle
