@@ -38,4 +38,8 @@ Use the links below; filenames in GitHub's folder listing open a preview.
 
 Run the patch you downloaded and follow the prompts. When it finishes, Safe Exam Browser 3.8.0 is fully patched.
 
+## Video tutorial
+
+[Watch the SEB patch installation video](../../export-1792756171041.mp4)
+
 [Back to all versions](../../readme.md)

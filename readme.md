@@ -35,11 +35,13 @@ Run the patch you downloaded and follow the prompts. When it finishes, Safe Exam
 
 ## Video tutorials
 
+[Watch the SEB patch installation video](export-1792756171041.mp4)
+
 <!-- VIDEOS:START -->
 <!-- Add your videos between these two markers. Everything inside is kept
      when the script rewrites this README. -->
 
-Video tutorials will be added here.
+
 
 <!-- VIDEOS:END -->
 
